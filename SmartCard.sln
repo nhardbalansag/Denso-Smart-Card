@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1831
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleForAcr1252", "SampleForAcr1252\SampleForAcr1252.csproj", "{9D9D7008-7650-4B9D-B63B-D218987CBD4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DensoSmartCard", "SampleForAcr1252\DensoSmartCard.csproj", "{9D9D7008-7650-4B9D-B63B-D218987CBD4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
